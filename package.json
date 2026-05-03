@@ -1,0 +1,16 @@
+{
+    "name": "goit-js-hw-05",
+    "version": "1.0.0",
+    "description": "GoIT JavaScript Homework 05",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server",
+        "dev": "http-server -p 8000 -c-1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^3.0.0"
+    }
+}
